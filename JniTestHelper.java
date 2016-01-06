@@ -1,4 +1,3 @@
-/*这是我多加的一行 在服务器里面加的 */
 package org.cocos2dx.cpp;
 import android.os.Handler;
 import android.os.Message;
